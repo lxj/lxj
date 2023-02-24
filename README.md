@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=lxj&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />
+
 <!--
 **lxj/lxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
